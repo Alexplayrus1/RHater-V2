@@ -1,8 +1,8 @@
-.cmds 
+# .cmds 
 displays a small list of commands
-.loopfling
+# .loopfling
 prompts you to loop fling someone
-example usage:
+# example usage:
 .loopfling
-(you should get a pm to pick a player)
+# (you should get a pm to pick a player)
 badslender333
