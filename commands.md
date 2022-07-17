@@ -1,5 +1,3 @@
-# .cmds 
-# displays a small list of commands
 # .loopfling
 # prompts you to loop fling someone
 # example usage:
