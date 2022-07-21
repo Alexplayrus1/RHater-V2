@@ -7,7 +7,8 @@ Try [RHater V2](https://github.com/Alexplayrus1/RHater-V2), A great free admin s
 Current beta features: Loopfling, Rank, Teleport back on death.
 
 The loadstring:
-```loadstring(game:HttpGet('https://raw.githubusercontent.com/Alexplayrus1/RHater-V2/main/rhaterv2.lua',true))()```
+```loadstring(game:HttpGet('https://raw.githubusercontent.com/Alexplayrus1/
+RHater-V2/main/rhaterv2.lua',true))()```
 
 You can also check out our [source](https://github.com/Alexplayrus1/RHater-V2/blob/main/rhaterv2.lua) to make sure its safe
 
