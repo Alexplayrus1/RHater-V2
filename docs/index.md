@@ -11,5 +11,3 @@ The loadstring:
 
 You can also check out our [source](https://github.com/Alexplayrus1/RHater-V2/blob/main/rhaterv2.lua) to make sure its safe
 
-
-#### Website made with github pages
