@@ -4,3 +4,4 @@
 # commands (if u got ranked): [commands](commands.md)
 # loadstring: 
 ```loadstring(game:HttpGet('https://raw.githubusercontent.com/Alexplayrus1/RHater-V2/main/rhaterv2.lua',true))()```
+# check out [our site](https://alexplayrus1.github.io/RHater-V2/)
