@@ -1,4 +1,4 @@
-## Welcome to the RHater Website
+## RHater
 
 Tired of those shitty admin scripts that cant even rank?
 
