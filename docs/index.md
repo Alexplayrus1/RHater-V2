@@ -1,6 +1,8 @@
 ## RHater
 
-Tired of those shitty admin scripts that cant even rank?
+THE RANK HAS BEEN PATCHED BUT WILL NOT BE REMOVED
+
+Tired of those shitty admin scripts?
 
 Try [RHater V2](https://github.com/Alexplayrus1/RHater-V2), A great free admin script!
 
